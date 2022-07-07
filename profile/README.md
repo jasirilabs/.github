@@ -1,5 +1,5 @@
 
-<p align="center"><a href="https://jasirilabs.com" target="_blank"><img src="https://avatars.githubusercontent.com/u/70333473?s=200&v=4" width="400"></a></p>
+<p align="center"><a href="https://jasirilabs.com" target="_blank"><img src="https://avatars.githubusercontent.com/u/70333473?s=200&v=4"></a></p>
 
 ## About Jasiri Labs
 
